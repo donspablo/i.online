@@ -1,5 +1,5 @@
 ---
-title: 'i.online: A don Federation Company' featured_image: '/images/gohugo-default-sample-hero-image.jpg'
+title: 'i.online: XIΞLΞVAN SOLUTIONS' featured_image: '/images/gohugo-default-sample-hero-image.jpg'
 description: "i.online is under construction."
 ---
 
